@@ -2,7 +2,8 @@
 
 1.1) cd切换到项目根目录 
 
-1.2) set  PYTHONPATH=./       # 如果是linux或者mac  export PYTHONPATH=./ 
+1.2) set  PYTHONPATH=./       
+(如果是linux或者mac  export PYTHONPATH=./ )
 
 1.3) uvicorn djangoProject.asgi:application
 
@@ -14,7 +15,8 @@
 
 2.1) cd切换到项目根目录 
 
-2.2) set  PYTHONPATH=./  # 如果是linux或者mac  export PYTHONPATH=./ 
+2.2) set  PYTHONPATH=./  
+( 如果是linux或者mac  export PYTHONPATH=./ )
 
 2.3)  python3 run_conusme.py
 
