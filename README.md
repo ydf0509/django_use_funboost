@@ -11,6 +11,12 @@
 然后浏览器访问 http://127.0.0.1:8000/index  ,这样就能 views.py 的 test视图函数发布消息到队列了。
 
 
+# 1.2 带orm操作的funboost+django demo
+
+有的人不懂消费函数中操作了orm,看这个项目.
+
+[funboost_django_orm_demo](https://github.com/ydf0509/funboost_django_orm_demo)
+
 # 2 启动后台消费
 
 2.1) cd切换到项目根目录 
