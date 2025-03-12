@@ -1,3 +1,8 @@
+其实不需要这个demo，funboost 和django  flask  fastapi 任意web框架搭配没有任何区别，
+但是有的人老是爱问 funboost 怎么和某某web框架搭配，那就写一个项目。
+
+funboost 和django搭配不像 django_celery 还要专门特意搞个三方插件包，完全不需要，在任何web框架中使用funboost都没有需要专门学习的三方插件包。 
+
 # 1 启动django服务
 
 1.1) cd切换到项目根目录 
